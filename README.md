@@ -69,22 +69,6 @@ This project demonstrates how Power BI can be used to transform raw healthcare d
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-```
-images/Healthcare_Dashboard.png
-```
-
-Example:
-
-```markdown
-![Healthcare Dashboard](images/Healthcare_Dashboard.png)
-```
-
----
-
 ## 📂 Repository Structure
 
 ```
